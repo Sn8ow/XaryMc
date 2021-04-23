@@ -12,3 +12,6 @@ Nowadays, many people enjoy spending their free time while playing games. One of
 * 1.9.4, 1.9
 * 1.8.9, 1.8.8, 1.8.1, 1.86, 1.8
 ```
+***
+# Installing
+How to install XaryMc Ultimate Resource Pack:</h2><p></p><strong>NOTE:</strong> Many resource packs require <a href="/optifine-hd/" target="_blank" data-wpel-link="internal">optifine</a> to be preinstalled, so be sure to install it.<ol class="guide-cl"><li>Download the XaryMc Ultimate texture pack for Minecraft from the download section below.<em> – if there are many different versions, just pick the one that you like or that you think your PC can handle (Downloading in Releases)</em></li><li>Launch the game client through the Minecraft launcher.</li><li>On the main menu, click "Options".</li><li>On the options menu, click "Resource Packs...".</li><li>Click on "Open Resource Pack Folder".<em> – folder titled "resourcepacks" will pop up</em></li><li>Move the .zip file you downloaded in the first step to the newly opened "resourcepacks" folder.</li><li>Click "Done".</li><li>Click on "Resource Packs..." again.</li><li>Your pack should have appeared in the left window, just hover over it and click on the arrow pointing to the right.</li><li>Click "Done" again.</li><li>The pack has now been successfully loaded and ready to be used in your world!</li></ol>
